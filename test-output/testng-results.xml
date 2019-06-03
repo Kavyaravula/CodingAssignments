@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76716" started-at="2019-04-16T18:24:52Z" finished-at="2019-04-16T18:26:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76716" started-at="2019-04-16T18:24:52Z" finished-at="2019-04-16T18:26:09Z">
+      <class name="com.qa.zoopla.Tests.MyTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.zoopla.Tests.MyTest@5c7fa833]" name="setUp" is-config="true" duration-ms="29925" started-at="2019-04-16T11:24:52Z" finished-at="2019-04-16T11:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="displayAllPrices()[pri:0, instance:com.qa.zoopla.Tests.MyTest@5c7fa833]" name="displayAllPrices" duration-ms="46728" started-at="2019-04-16T11:25:22Z" finished-at="2019-04-16T11:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayAllPrices -->
+      </class> <!-- com.qa.zoopla.Tests.MyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
